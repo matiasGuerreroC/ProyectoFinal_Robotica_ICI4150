@@ -1,0 +1,32 @@
+# Webots generated files
+*.wbo
+*.wrl
+*.bak
+*.tmp
+*.log
+*.swp
+
+# Compiled controller binaries
+controllers/**/build/
+controllers/**/Makefile.release
+controllers/**/Makefile.debug
+controllers/**/*.o
+controllers/**/*.d
+controllers/**/*.so
+controllers/**/*.a
+controllers/**/*.out
+controllers/**/.*.cmd
+controllers/**/*.exe
+
+# IDE files
+.vscode/
+*.code-workspace
+*.DS_Store
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Python cache (in case you use it)
+__pycache__/
+*.pyc
