@@ -41,9 +41,15 @@ Integrantes del grupo:
    ```
    ProyectoFinal_Robotica_ICI4150/
    ├── controllers/
-   │   └── controlador/         ← Código C del robot
+   │   └── controlador/           ← Código C del robot
    │       └── controlador.c
    ├── worlds/
-   │   └── proyecto.wbt        ← Mundo principal del proyecto
-   └── README.md               ← Instrucciones y detalles del proyecto
+   │   └── proyecto.wbt           ← Mundo principal del proyecto
+   ├── InformeFinalRobotica.pdf   ← Documentación técnica
+   └── README.md                  ← Instrucciones y detalles del proyecto
    ```
+
+
+6. **Video Demostrativo**
+   
+[![Ver video](https://img.youtube.com/vi/FI3tEMAHiww/hqdefault.jpg)](https://youtu.be/FI3tEMAHiww)
